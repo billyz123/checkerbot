@@ -27,7 +27,7 @@ ip_add = {
 
 hookURL = "https://discord.com/api/webhooks/1034803578084266004/hS5sohZCZjgk1zU58KCXv1XZ2eqv_jKcxsbyNRFwpH5_vvtQfdAAMjceCOrONv_edhgO"
 
-Teks_Deskripsi = "List Nick Para Babu"
+Teks_Deskripsi = "BABU BABU GANMTENK"
 Teks_Footer = "MO SOT MO CON"
 
 Emote_Offline = "<:offline:982957367392088124>"
