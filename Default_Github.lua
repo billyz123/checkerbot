@@ -1,5 +1,5 @@
 Rdp = {
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
+    {nordp = 1, botname = "BFWDR", Status = "Nonaktif"},
     {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
     {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
     {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
@@ -15,7 +15,7 @@ Rdp = {
 
 ShowIP = true
 ip_add = {
-    "192.168.0.1",
+    "172.105.65.178",
     "192.168.0.2",
     "192.168.0.3",
     "192.168.0.4",
@@ -27,7 +27,7 @@ ip_add = {
 hookURL = "https://discord.com/api/webhooks/1034803578084266004/hS5sohZCZjgk1zU58KCXv1XZ2eqv_jKcxsbyNRFwpH5_vvtQfdAAMjceCOrONv_edhgO"
 
 Teks_Deskripsi = "List Nick Para Babu"
-Teks_Footer = "Golek Duit Kanggo Masa Depan"
+Teks_Footer = "MO SOT MO CON"
 
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
